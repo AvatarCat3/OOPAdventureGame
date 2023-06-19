@@ -1,0 +1,15 @@
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\bin\Debug\net7.0\OOPAdventureGame.exe
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\bin\Debug\net7.0\OOPAdventureGame.deps.json
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\bin\Debug\net7.0\OOPAdventureGame.runtimeconfig.json
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\bin\Debug\net7.0\OOPAdventureGame.dll
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\bin\Debug\net7.0\OOPAdventureGame.pdb
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.csproj.AssemblyReference.cache
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.AssemblyInfoInputs.cache
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.AssemblyInfo.cs
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.dll
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\refint\OOPAdventureGame.dll
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.pdb
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\OOPAdventureGame.genruntimeconfig.cache
+C:\Users\joanna.summerlin\Projects\OOPAdventureGame\obj\Debug\net7.0\ref\OOPAdventureGame.dll
